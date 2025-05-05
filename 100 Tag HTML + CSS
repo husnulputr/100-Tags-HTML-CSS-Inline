@@ -1,0 +1,100 @@
+<span style="color: blue;">Teks biru</span>
+<b style="font-weight: bold;">Teks tebal</b>
+<i style="font-style: italic;">Teks miring</i>
+<u style="text-decoration: underline;">Teks bergaris bawah</u>
+<em style="color: darkorange;">Teks penting</em>
+<strong style="font-weight: bolder;">Teks diperkuat</strong>
+<small style="font-size: 10px;">Teks kecil</small>
+<mark style="background-color: yellowgreen;">Teks disorot</mark>
+<abbr title="World Health Organization" style="border-bottom: 1px dotted;">WHO</abbr>
+<cite style="font-style: italic;">Judul Buku</cite>
+<code style="background: #eee;">alert("Hi")</code>
+<pre style="font-family: monospace;">Preformatted Text</pre>
+<blockquote style="margin-left: 20px;">Kutipan Panjang</blockquote>
+<q style="font-style: italic;">Kutipan Pendek</q>
+<h2 style="color: green;">Sub Judul</h2>
+<h3 style="text-transform: uppercase;">Judul Sekunder</h3>
+<h4 style="letter-spacing: 1px;">Judul Lain</h4>
+<h5 style="color: navy;">Judul Kecil</h5>
+<h6 style="color: gray;">Judul Sangat Kecil</h6>
+<br style="margin: 10px;">
+<hr style="border: 1px solid red;">
+<img src="#" style="width: 150px;">
+<a href="#" style="color: teal;">Link</a>
+<nav style="background-color: lightblue;">Navigasi</nav>
+<header style="padding: 15px;">Header Halaman</header>
+<footer style="background-color: #eee;">Footer</footer>
+<section style="margin: 20px;">Bagian</section>
+<article style="border: 1px solid #ccc;">Artikel</article>
+<aside style="float: right;">Sisi Konten</aside>
+<main style="display: block;">Konten Utama</main>
+<address style="font-style: italic;">Alamat</address>
+<table style="border: 1px solid black;">Tabel</table>
+<tr style="background-color: #f8f8f8;"><td>Baris</td></tr>
+<td style="padding: 10px;">Sel Data</td>
+<th style="font-weight: bold;">Header Kolom</th>
+<thead style="background-color: lightgray;">Tabel Header</thead>
+<tbody style="color: black;">Isi Tabel</tbody>
+<tfoot style="background-color: #ccc;">Tabel Footer</tfoot>
+<ul style="list-style-type: circle;"> <li>Item</li> </ul>
+<ol style="list-style-type: lower-alpha;"> <li>Item</li> </ol>
+<li style="color: darkgreen;">Daftar</li>
+<dl style="padding: 10px;">Definisi</dl>
+<dt style="font-weight: bold;">Istilah</dt>
+<dd style="margin-left: 10px;">Penjelasan</dd>
+<form style="border: 1px solid #ddd;">Formulir</form>
+<input type="text" style="border: 1px solid blue;">
+<textarea style="width: 250px;">Ketik di sini</textarea>
+<button style="background-color: orange;">Klik</button>
+<select style="width: 120px;"> <option>Opsi</option> </select>
+<option style="color: red;">Pilihan</option>
+<label style="font-weight: bold;">Label</label>
+<fieldset style="border: 2px dashed gray;">Fieldset</fieldset>
+<legend style="color: maroon;">Judul</legend>
+<output style="color: green;">Output</output>
+<datalist style="color: gray;">Data</datalist>
+<progress value="60" max="100" style="width: 200px;"></progress>
+<meter value="0.6" style="width: 100px;"></meter>
+<iframe src="#" style="width: 300px; height: 200px;"></iframe>
+<canvas style="border: 1px solid black;"></canvas>
+<svg width="100" height="100" style="background: lightyellow;"></svg>
+<audio controls style="width: 100%;">Audio</audio>
+<video controls style="width: 320px;">Video</video>
+<track src="subtitles.vtt" style="display: none;">
+<embed src="file.pdf" style="height: 400px;">
+<object data="data.pdf" style="width: 100%;"></object>
+<param name="autoplay" value="true" style="display: none;">
+<noscript style="color: red;">JavaScript tidak aktif</noscript>
+<script style="display: none;">// kode JS</script>
+<style style="display: none;">CSS</style>
+<template style="display: none;">Template</template>
+<slot style="color: purple;">Slot</slot>
+<dialog open style="padding: 10px;">Dialog</dialog>
+<summary style="cursor: pointer;">Klik untuk lihat</summary>
+<details style="border: 1px solid;">Detail</details>
+<figure style="margin: 10px;"> <img src="#"> </figure>
+<figcaption style="font-size: 12px;">Caption</figcaption>
+<wbr style="display: none;">
+<kbd style="background: #ccc;">Ctrl+S</kbd>
+<samp style="color: navy;">Output sistem</samp>
+<var style="font-style: italic;">x</var>
+<del style="text-decoration: line-through;">Dihapus</del>
+<ins style="text-decoration: underline;">Ditambahkan</ins>
+<col style="background-color: #eee;">
+<colgroup style="background-color: #ddd;"></colgroup>
+<caption style="caption-side: top;">Judul Tabel</caption>
+<source src="img.webp" style="display: none;">
+<picture style="display: block;"> <img src="img.jpg"> </picture>
+<base href="/" style="display: none;">
+<meta charset="UTF-8" style="display: none;">
+<link rel="stylesheet" href="#" style="display: none;">
+<html style="scroll-behavior: smooth;">
+<head style="display: none;">
+<title style="display: none;">Judul Halaman</title>
+<body style="background-color: #f9f9f9;">Konten</body>
+<time datetime="2025-05-04" style="color: brown;">4 Mei 2025</time>
+<data value="42" style="font-weight: bold;">42</data>
+<bdi style="direction: rtl;">مرحبا</bdi>
+<bdo dir="rtl" style="direction: rtl;">Teks dibalik</bdo>
+<ruby style="font-size: small;">漢<rt>Kan</rt></ruby>
+<rp style="display: none;">(</rp>漢<rp style="display: none;">)</rp>
